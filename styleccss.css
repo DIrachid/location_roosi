@@ -1,0 +1,144 @@
+.img-carswom{
+    max-width: 100%;
+}
+.par-1 .btn{
+    text-transform: uppercase;
+}
+.sect-btn h2{
+    color:white;
+    font-weight: 700;
+}
+.sect-btn{
+    background-color: #248effd6;
+    padding:3.6em 4.8em 1.4em
+}
+
+#home-section > header{
+    position:sticky;
+    background:white;
+}
+.col-3 .site-logo img{
+    width: 50%;
+}
+.nav-item .nav-link{
+    margin-left:10px
+}
+.nav-item a:hover{
+    color:#59c0c9;
+    font-weight: 700;
+}
+.nav-item a{
+    color:#3e4041;
+    font-weight: 700;
+}
+.nav-item .nav-link svg{
+    margin-right:10px
+}
+.site-menu a{
+    font-weight: 600;
+}
+.landing{
+    background-image: url(images/cars-bg3-1.jpg);
+    min-height: 100vh;
+    background-repeat:no-repeat;
+}
+.div-landing{
+    width: 80%;
+
+}
+.land-h1{
+    font-size:70px;
+    font-weight: 500;
+    color: white;
+}
+.land-h1-2{
+    font-weight:700;
+    color:white
+}
+.par-land{
+    font-weight: 500;
+    color:white
+}
+.site-mobile-menu .site-nav-wrap li> a {
+    color:#3e4041;
+    font-weight: 700;
+}
+.site-mobile-menu .site-nav-wrap li.active > a:hover {
+    color:#59c0c9;
+    font-weight: 700;
+}
+.site-mobile-menu .site-nav-wrap a:hover,.site-mobile-menu .site-nav-wrap li.active > a{
+    color:#59c0c9 !important;
+}
+.site-navbar .site-navigation .site-menu > li.active > a{
+    color:#59c0c9 !important;
+}
+.site-navbar .site-navigation .site-menu > li > a:hover{
+    color:#59c0c9 !important;
+}
+#home-section > div.hero > div > div > div > div > div > h1{
+    color:white;
+}
+.py-2 .container > ul{
+    width:100%;
+    justify-content: space-between !important;
+}
+#english ,#francais{
+    border-color: transparent;
+}
+#english img,#francais img{
+    width:30px
+}
+#english:focus ,#francais:focus{
+    border-color: #59c0c9
+}
+#home-section > nav,#home-section > footer {
+    background-image: url("images/Motif.png") !important;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#english,#francais{
+    background-color: transparent;
+}
+.btn-primary{
+    background-color:#59c0c9 !important;
+    border-color:#59c0c9 !important;
+}
+strong,span{
+    color:#59c0c9 !important;
+}
+#home-section > div.site-section.bg-primary.py-5{
+    background-color: #658c8f !important;
+}
+#home-section > footer > div.content > div.top > div > span > img{
+    width: 130px;
+}
+.link-boxes .input-box input{
+    color: black !important;
+}
+/* les width des images */
+.listing .listing-img img{
+    width: 301px;
+    height: 207px;
+}
+/* maps footer */
+#home-section > footer > div.content > div.link-boxes > ul.box.input-box > div > iframe{
+    height: 207px;
+}
+#home-section > footer > div.bottom-details > div > span.copyright_text{
+    color: black !important;
+    font-weight: 400 !important;
+}
+#home-section > footer > div.bottom-details > div > span.copyright_text >a{
+    font-weight: 500 !important;
+}
+#home-section > div:nth-child(7) > div > div.row.mb-5 > div:nth-child(1) > div > div > span,#home-section > div:nth-child(7) > div > div.row.mb-5 > div:nth-child(2) > div > div > span,#home-section > div:nth-child(7) > div > div.row.mb-5 > div:nth-child(3) > div > div > span{
+    color: #59c0c9 !important;
+}
+.social li a{
+    background-color: #59c0c9 !important;
+}
+#home-section > footer > div.content > div.link-boxes > div > ul > li > a > span{
+    color: black !important;
+}
